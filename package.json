@@ -1,0 +1,23 @@
+{
+  "name": "tonkatsu",
+  "version": "1.0.0",
+  "description": "今日のご飯は",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wassan128/tonkatsu.git"
+  },
+  "author": "wassan128",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wassan128/tonkatsu/issues"
+  },
+  "homepage": "https://github.com/wassan128/tonkatsu#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "kuromoji": "^0.1.1"
+  }
+}
