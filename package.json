@@ -1,7 +1,7 @@
 {
-  "name": "tonkatsu",
+  "name": "chirashies-see",
   "version": "1.0.0",
-  "description": "今日のご飯は",
+  "description": "今週のチラシsをsee",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
